@@ -15,3 +15,9 @@ factorial :: (Integral a) => a -> a
 factorial 0 = 1  
 factorial n = n * factorial (n - 1) 
 
+charName :: Char -> String  
+charName 'a' = "Albert"  
+charName 'b' = "Broseph"  
+charName 'c' = "Cecil" 
+charName x = "Can't find listed name, sorry :p"
+//prevents an exception by including a catch-all pattern
