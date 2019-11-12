@@ -3,4 +3,4 @@
 --use import to use these sets of functions
 --import qualified to specify for our functions
 
---making our own modules with geometry (included in a subfile
+--making our own modules with geometry (included in the file geometry.hs)
