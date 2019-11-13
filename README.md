@@ -7,25 +7,25 @@ for grader's convenience I've labeled the hs files by chapter, unless the tutori
 
 Chapter Files:
 
-InputOutput Folder
+InputOutput Folder (ch9)
 
-hoFunctions.hs
+hoFunctions.hs (ch6)
 
-modules.hs
+modules.hs (ch7)
 
-monad.hs
+monad.hs (ch12)
 
-monads.hs
+monads.hs (ch13)
 
-patternMatch.hs
+patternMatch.hs (ch4)
 
-recursion.hs
+recursion.hs (ch5)
 
-solvePro.hs
+solvePro.hs (ch10)
 
-types.hs
+types.hs (ch8) 
 
-zipper.hs
+zipper.hs (ch14)
 
-
+**chapter files are for the numerous functions i executed, ch 1 2 3 and 11 were short and didnt have much functions other than the separate executable files.
 **all other files are from the various chapters which the tutorial specifies to make to execute separately.
